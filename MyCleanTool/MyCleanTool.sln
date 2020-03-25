@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCleanTool", "MyCleanTool.csproj", "{2A4E6301-E334-4AC9-90C1-6C55E8D8801A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4E6301-E334-4AC9-90C1-6C55E8D8801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4E6301-E334-4AC9-90C1-6C55E8D8801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4E6301-E334-4AC9-90C1-6C55E8D8801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4E6301-E334-4AC9-90C1-6C55E8D8801A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C449D299-155F-41AB-A77C-F0B873819604}
+	EndGlobalSection
+EndGlobal
